@@ -68,7 +68,7 @@
 
 ## 🚀 Featured Projects
 
-### 🟢 [GreenPot — Golf Charity Subscription Platform](https://github.com/FarhanZizz/golf-charity-platform) _(Nov 2024 – Mar 2025)_
+### 🟢 [GreenPot — Golf Charity Subscription Platform](https://github.com/FarhanZizz/golf-charity-platform) _(Mar 2024 – Mar 2025)_
 
 > A full-stack subscription platform for golf charity draws with advanced prize logic.
 
@@ -99,20 +99,6 @@
 | ------------------------------------------ | ------------------------------------------- | -------------- |
 | 🏅 Apollo Advanced Level 2 Web Development | Programming Hero · Batch 1                  | May – Oct 2023 |
 | 🏅 Complete Web Development Course         | Programming Hero (Jhankar Mahbub) · Batch 6 | Jul – Dec 2022 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarhanZizz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanZizz&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=FarhanZizz&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 

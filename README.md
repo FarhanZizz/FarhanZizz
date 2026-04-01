@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Sc in Computer Science and Engineering** @ Premier University, Chittagong _(2025 – 2028)_
+- 🎓 Pursuing **B.Sc in Computer Science and Engineering** @ Premier University, Chittagong _(2026 – 2030)_
 - 🚀 Building production-grade web apps with the **MERN stack**
 - 🔭 Currently working on full-stack projects with **React**, **Node.js**, **TypeScript**, and **PostgreSQL**
 - 🌱 Passionate about clean architecture, great UX, and database design

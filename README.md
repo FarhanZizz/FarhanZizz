@@ -68,7 +68,7 @@
 
 ## 🚀 Featured Projects
 
-### 🟢 [GreenPot — Golf Charity Subscription Platform](https://github.com/FarhanZizz/golf-charity-platform) _(Mar 2024 – Mar 2025)_
+### 🟢 [GreenPot — Golf Charity Subscription Platform](https://github.com/FarhanZizz/golf-charity-platform) _(Mar 2026 – Mar 2026)_
 
 > A full-stack subscription platform for golf charity draws with advanced prize logic.
 

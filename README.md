@@ -99,13 +99,3 @@
 | ------------------------------------------ | ------------------------------------------- | -------------- |
 | 🏅 Apollo Advanced Level 2 Web Development | Programming Hero · Batch 1                  | May – Oct 2023 |
 | 🏅 Complete Web Development Course         | Programming Hero (Jhankar Mahbub) · Batch 6 | Jul – Dec 2022 |
-
----
-
-<div align="center">
-
-_"Ship fast. Learn faster."_
-
-⭐ If you find my work interesting, consider giving my repos a star!
-
-</div>

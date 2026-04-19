@@ -93,6 +93,21 @@
 
 ---
 
+### 💧 [Delco Water — Business Management App](https://github.com/FarhanZizz/delco-water) _(Apr 2026 – Present)_
+
+> A simple, mobile-first web app for managing a small water bottle business in Chattogram, Bangladesh. Built for non-technical users with a Bengali-first UI.
+
+- 📊 Tracks monthly sales, dealer performance, and total earnings
+- 👥 Dealer management with daily piece entry and automated reporting
+- 📇 Customer directory with contact info, pricing, and WhatsApp integration
+- 💰 Deposit tracking system for employee transactions
+- 📅 Monthly report system with merged same-day entries for clarity
+- ⚡ No-framework architecture for simplicity and fast performance
+
+`HTML` `CSS` `JavaScript` `Supabase` `PostgreSQL` `Netlify`
+
+---
+
 ## 📜 Certifications
 
 | Certification                              | Issued By                                   | Period         |

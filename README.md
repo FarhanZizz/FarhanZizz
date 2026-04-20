@@ -81,18 +81,6 @@
 
 ---
 
-### 🟣 [Jostack — IT Services Website](https://github.com/FarhanZizz/jostack-website) _(Oct 2024 – Jan 2025)_
-
-> A visually immersive, animation-rich IT services landing page.
-
-- ⚡ Built a responsive, component-based UI with **React** and a mobile-first approach
-- 🎬 Implemented advanced animations with **GSAP** and **Framer Motion**; integrated **Locomotive Scroll** for immersive effects
-- 📨 Integrated **EmailJS** for contact functionality — no dedicated back-end mail server required
-
-`React` `GSAP` `Framer Motion` `Locomotive Scroll` `EmailJS` `Vercel`
-
----
-
 ### 💧 [Delco Water — Business Management App](https://github.com/FarhanZizz/delco-water) _(Apr 2026 – Present)_
 
 > A mobile-first web app for managing a water bottle business in Chattogram, Bangladesh. Built for non-technical users with a Bengali-first UI.

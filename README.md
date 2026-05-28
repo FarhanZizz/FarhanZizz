@@ -68,7 +68,7 @@
 
 ## 🚀 Featured Projects
 
-### 🟢 [GreenPot — Golf Charity Subscription Platform](https://github.com/FarhanZizz/golf-charity-platform) _(Mar 2026 – Mar 2026)_
+### 🟢 [GreenPot — Golf Charity Subscription Platform](https://github.com/FarhanZizz/golf-charity-platform)
 
 > A full-stack subscription platform for golf charity draws with advanced prize logic.
 
@@ -81,7 +81,7 @@
 
 ---
 
-### 💧 [Delco Water — Business Management App](https://github.com/FarhanZizz/delco-water) _(Apr 2026 – Present)_
+### 💧 [Delco Water —  Commissioned Project](https://github.com/FarhanZizz/delco-water) _(Apr 2026 – Present)_
 
 > A mobile-first web app for managing a water bottle business in Chattogram, Bangladesh. Built for non-technical users with a Bengali-first UI.
 

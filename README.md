@@ -66,36 +66,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🟢 [GreenPot — Golf Charity Subscription Platform](https://github.com/FarhanZizz/golf-charity-platform)
-
-> A full-stack subscription platform for golf charity draws with advanced prize logic.
-
-- 🗄️ Built with **Supabase Auth**, **PostgreSQL**, and row-level security (RLS) across 5 normalised tables
-- 🎰 Engineered a monthly prize draw engine supporting **random & frequency-weighted** number generation with automatic jackpot rollover
-- 📊 Implemented a rolling **5-score Stableford tracker** enforced by a Postgres trigger for data integrity
-- 🛠️ Delivered a full **admin panel** — user management, draw simulation, charity CRUD, and winner payout tracking
-
-`React` `Tailwind CSS` `Supabase` `PostgreSQL` `React Router` `Vercel`
-
----
-
-### 💧 [Delco Water —  Commissioned Project](https://github.com/FarhanZizz/delco-water) _(Apr 2026 – Present)_
-
-> A mobile-first web app for managing a water bottle business in Chattogram, Bangladesh. Built for non-technical users with a Bengali-first UI.
-
-- 📊 Tracks monthly sales, dealer performance, and total earnings
-- 👥 Dealer management with daily piece entry and automated reporting
-- 📇 Customer directory with contact info, pricing, and WhatsApp integration
-- 💰 Deposit tracking system for employee transactions
-- 📅 Monthly report system with merged same-day entries for clarity
-- ⚡ No-framework architecture for simplicity and fast performance
-
-`HTML` `CSS` `JavaScript` `Supabase` `PostgreSQL` `Netlify`
-
----
-
 ## 📜 Certifications
 
 | Certification                              | Issued By                                   | Period         |

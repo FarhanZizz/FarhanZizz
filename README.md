@@ -2,12 +2,10 @@
 
 # Hi there, I'm Farhan Aziz Mukto 👋
 
-### Full Stack Developer · MERN Stack · Chittagong, Bangladesh
+### Full Stack Developer · MERN Stack · Chattogram, Bangladesh
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://farhanzizz.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-zizz/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FarhanZizz)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanazizmukto@gmail.com)
 
 </div>
 
@@ -17,10 +15,8 @@
 
 - 🎓 Pursuing **B.Sc in Computer Science and Engineering** @ Premier University, Chittagong _(2026 – 2030)_
 - 🚀 Building production-grade web apps with the **MERN stack**
-- 🔭 Currently working on full-stack projects with **React**, **Node.js**, **TypeScript**, and **PostgreSQL**
-- 🌱 Passionate about clean architecture, great UX, and database design
+- 🔭 Currently working on full-stack projects with **React**, **Next.js**, **TypeScript**, and **PostgreSQL**
 - 📫 Reach me at **farhanazizmukto@gmail.com**
-- 📍 Based in **Chittagong, Bangladesh**
 
 ---
 
